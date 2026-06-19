@@ -1,5 +1,5 @@
 # Multi-Platform-Ad-Generator
-Multi-Platform Ad Generator app with Groq API, Llama model <br> <br>
+Multi-Platform Ad Generator app with Groq API, Llama model and streamlit for deployment. <br> <br>
 Sample #1 <br>
 <img width="373" height="707" alt="Screenshot 2026-06-19 at 18 25 27" src="https://github.com/user-attachments/assets/aa9aaca5-676a-4028-9c44-329d64cd1e51" /> <br> <br>
 Sample #2 <br>
